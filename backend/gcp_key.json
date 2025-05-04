@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "speedy-now-454423-f2",
+    "private_key_id": "ac1534979fdcbbdde832cd20336d950ebe9b02e7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDLlFnf41hQ2v/\n3DmEbxC9LfhL9e0TY87k0elNyQxFSDgW7Z7L8naS5Wmi0fdqMne3vOJcT7fi2ruo\n+QO1/2M00Y0yUZ/f6xSkB16yR6Z13WRrQSVsreYwaEm7L1nDTqN4XX9goVAuG+4M\nmu92uJSCdGn6pKNQwtiVINaTvUJp4i/zujgcLir7z5iw86N0xuYdpxd/2QmcWtNj\nkpbRzCp19jkts1emRDETsuZKqse6xEX4duLTrPLxRqZQwsc6TMt8LQf5o1K2y1RE\nK0hMXb+L2w7/LLobDQq/98grGkTZ/KOgxUxOYOHroeEKxRiDNrr807y4JryB+Uf0\nDlKl2JEpAgMBAAECggEAAKYkh1F9V5uzs1CDkMfAGJTwzKsxwYeqg4hu0Wn6pGIA\nAmmCBpUU5QT7boXACsZwr00i5ozYTxo27LH+m79l5czQPqDWr9YBBfuan8FNEdAY\nOk1nkbPb/lYLxWImrFd/A9KHGXvn1O4VraKNQHSO1TE3Ef+JUHvZYFjmhcFnxAuG\n7AyBLc3KBXS7kflJ+VRd2TR8mDQ9/PDo/pcabMTQMgPp4623OF9yDDgc5AvP6JMJ\nPyLjXuI+xve/L2CErkGKuynx8PNSFE6/sQx0+TourGac5Yi8ks6NIYjYzl7Vfg9t\nHGMioUh3JtoEKzctQwZHZV/87/amPu1VvZThpWF34QKBgQDrhUIoKCQarb8c/3PC\nYE5T29h6mHXr3MiP9ly6V24qlwmv7OgNJohS0jDZVjxN4YnBbYf5DYWWZLjThPXS\nOZpO8r6iu94QH3dzxxdK89FTIJ3Q7OVOwt6nKiI8LZ2XjjjmN/cH9Z0pkA7VmTBT\n41K3ReIZ2mMr14oSNSuxnufLkQKBgQDUJxcrr/DQ36HUPj6ku/a/NJbA5su86LWu\nCSSdF+Wg6qQ0Xb76Hp8U+4TbuMUR6upBxTghvsX1/ymw+WCdjWgyrUAQld0cpv9L\niClnJtRld+xS8k5Xa50u6fQU/HD+Fk+H+yp3JzbsXCj/npllVI9tXDtgjJp/DWk8\nsk8f/CKwGQKBgFPWZttmlpuMl8hZwrpBkABX9PKHDQr918MvXojSkJvGkiM2wM/V\nlJduzQbApMzQaToapFlqj9AeYJCi9uJzsNNDo8rH919j5CCpkUgUDMJ7jNIPUf08\nbwewfulPD5cggG6rI1uI+f4OkslEM6jY9dvZm4e6bqzvl+2tUbVzrG2RAoGAA4P6\nUFEEDpIGHnxBkX1D43s9nEi2y5SXniCsqKXCul3pBq0fAwoK3NAmLXXsXhWkeB6K\nhZShtyfZSwN25GV5eo2AaEXzegwSYvAIr5rnHh9UnTNCtRQlcKeT0d01CiDYhIpW\n886EjHoie8nnBNTX45oJqdnqnXxdaBIUWZVWBdECgYEA27+HHZlMpKAvDuAMZDPI\nZ/urnc/7XY61tsdNxTA8wV3mUxwtQfNbtF3Id9Ej5Slvots1uYioHncf4Fkr1jU1\nKGZ8WtWWiI5VssMtFttLCyg6IHF9TP75IaEXmvGwGHoOqEQ3rGJKVmV0SDdQjbtF\n3znJ8xEx8chsfs/+EdIOB5c=\n-----END PRIVATE KEY-----\n",
+    "client_email": "docusync-ai@speedy-now-454423-f2.iam.gserviceaccount.com",
+    "client_id": "107839381487116167124",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/docusync-ai%40speedy-now-454423-f2.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }

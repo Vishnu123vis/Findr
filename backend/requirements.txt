@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+google-cloud-vision==3.4.4
+google-generativeai==0.3.1
+pymongo==4.5.0
+google-auth==2.23.3
+pydantic==1.10.13
+PyPDF2==3.0.1
+python-multipart==0.0.6 
